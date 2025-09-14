@@ -1,0 +1,187 @@
+.bg1 {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, #0000ff, #4169e1);
+}
+
+.bg2 {
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: #151b54;
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 7px;
+    width: 80px !important;
+    height: auto !important;
+    border-radius: 50px;
+}
+
+.celana {
+  position: absolute;
+  top: 180px;
+  left: 138px;
+  width:150px;
+  z-index: 11;
+  border-radius: 25px;
+}
+
+.nmcelana {
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  font-family: Comic Sans MS;
+  top: 328px;
+  left: 105px;
+  -webkit-text-stroke: 1px black;
+  z-index: 12;
+}
+
+.hrgcelana {
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  font-family: Comic Sans MS;
+  top: 355px;
+  left: 105px;
+  -webkit-text-stroke: 1px black;
+  z-index: 13;
+}
+
+.dskcelana {
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  font-family: Comic Sans MS;
+  top: 380px;
+  left: 105px;
+  -webkit-text-stroke: 1px black;
+  z-index: 14;
+}
+
+.buycln {
+position: absolute;
+color: white;
+font-size: 25px;
+background-color: #ff6e00;
+font-family: Comic Sans MS;
+top: 430px;
+left: 168px;
+z-index: 15;
+}
+
+.buycln:hover {
+background-color: #cc5500;
+}
+
+.buycln:active {
+background-color: #ff6e00;
+}
+
+.hoodiebasis {
+  position: absolute;
+  top: 580px;
+  left: 138px;
+  width:150px;
+  z-index: 11;
+  border-radius: 25px;
+}
+
+.nmhoodie {
+  position: absolute;
+  white-space: nowrap;
+  color: white;
+  font-size: 20px;
+  font-family: Comic Sans MS;
+  top: 175px;
+  left: 20px;
+  -webkit-text-stroke: 1px black;
+  z-index: 12;
+}
+
+.hrghoodie {
+  position: absolute;
+  color: white;
+  font-size: 21px;
+  font-family: Comic Sans MS;
+  top: 200px;
+  left: 20px;
+  -webkit-text-stroke: 1px black;
+  z-index: 12;
+}
+
+.buyhoodie {
+position: absolute;
+color: white;
+font-size: 25px;
+background-color: #ff6e00;
+font-family: Comic Sans MS;
+top: 830px;
+left: 168px;
+z-index: 15;
+}
+
+.buyhoodie:hover {
+background-color: #cc5500;
+}
+
+.dskhoodie {
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  white-space: nowrap;
+  font-family: Comic Sans MS;
+  top: 231px;
+  left: 20px;
+  -webkit-text-stroke: 1px black;
+  z-index: 14;
+}
+
+#storename {
+  position: absolute;
+  top: 10px;
+  left: 95px;
+  font-size: 30px;
+  font-family: Times New Roman;
+   color: #ffffff;
+    text-shadow: 
+        0 0 5px #ffffff,
+        0 0 5px #ffffff,
+        0 0 5px #ffffff,
+        0 0 5px #ffffff,
+        0 0 5px #ffffff;
+  transition: color 0.1s ease;
+  z-index: 10;
+}
+
+.counter1 {
+  position: absolute;
+  top: 150px;
+  left: 85px;
+  width: 250px;
+  background-color: #b21807;
+  aspect-ratio: 3/4;
+  border-radius: 30px;
+  border: 2px solid white;
+  z-index: 10;
+}
+
+.counter2 {
+  position: absolute;
+  top: 550px;
+  left: 85px;
+  width: 250px;
+  background-color:#b21807;
+  aspect-ratio: 3/4;
+  border-radius: 30px;
+  border: 2px solid white;
+  z-index: 10;
+}
